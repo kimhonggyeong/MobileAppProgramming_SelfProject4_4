@@ -71,7 +71,7 @@
 
     <Button
         android:id="@+id/BtnClear"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="처음으로"
         android:visibility="invisible" />
